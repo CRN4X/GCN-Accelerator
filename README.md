@@ -73,10 +73,10 @@ The project follows a complete ASIC design flow:
 
 ## Repository Structure
 
-- [RTL](src/): Verilog source files
-- `scripts/`: Synthesis scripts
-- `simulation/`: Testbench, Input and Output Data Files
-- `docs/`: Documentation and reports
+- [RTL](src/) : System Verilog Files
+- [Synthesis](scripts/) : Synthesis scripts
+- [Verification Files](simulation/) : Testbench, Input and Output Data Files
+- [Documentation](docs/) : Documentation and Reports
 
 ## Results
 
